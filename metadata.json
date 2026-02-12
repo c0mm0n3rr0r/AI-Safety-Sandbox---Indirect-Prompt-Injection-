@@ -1,0 +1,5 @@
+{
+  "name": "AI Safety Sandbox: Indirect Prompt Injection - local copy",
+  "description": "A research sandbox demonstrating how indirect prompt injection in untrusted data can manipulate an autonomous agent within authorized bounds.",
+  "requestFramePermissions": []
+}
